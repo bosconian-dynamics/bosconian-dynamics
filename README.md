@@ -17,7 +17,7 @@ And JavaScript. Raccoons are pretty neat too :raccoon:
 
 ## Skills and Technologies
 
-Over the course of 2020 I've become fond of the guidance which Pluralsight's Skill Assessments offer in sharpening my knowledge of and familiarity with various technologies.
+Over the course of 2020 I've become fond of the guidance which Pluralsight's Skill Assessments offer in sharpening my knowledge of and familiarity with various technologies - as well as the platform's video content for introductory exposure and identifying gaps in my experience.
 
 [
   <img width="30%" src="https://s2.pluralsight.com/assessments/badges/javascript-290-02-2020.png" />

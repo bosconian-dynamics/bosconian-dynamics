@@ -12,7 +12,7 @@ And JavaScript. Raccoons are pretty neat too :raccoon:
  - Using larger contemporary toolchains to better write, test, and deploy my code, including software like Webpack, Eslint, PHPCS, Composer, GitHub Actions, PHPUnit, and more.
  - Learning to better leverage GitHub to collaborate
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosconian-dynamics&count_private=true&layout=compact&hide_border=true" />
+  <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosconian-dynamics&count_private=true&layout=compact&hide_border=true" />-->
 </p>
 
 ## Skills and Technologies

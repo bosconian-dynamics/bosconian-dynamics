@@ -1,4 +1,26 @@
-### Hi there 👋
+### Oh, hello there 👋
+I'm a web developer with a passion for creation, exploration, and expression.
+
+And JavaScript. Raccoons are pretty neat too :raccoon:
+
+## GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bosconian-dynamics&count_private=true&show_icons=true&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosconian-dynamics&count_private=true&layout=compact&hide_border=true" />
+</p>
+
+## Skills and Technologies
+
+Over the course of 2020 I've become fond of the guidance which Pluralsight's Skill Assessments offer in sharpening my knowledge of and familiarity with various technologies.
+
+[
+  <img width="30%" src="https://s2.pluralsight.com/assessments/badges/javascript-290-02-2020.png" />
+  <img width="30%" src="https://s2.pluralsight.com/assessments/badges/node-js-269-03-2020.png" />
+  <img width="30%" src="https://s2.pluralsight.com/assessments/badges/react-208-02-2020.png" />
+][pluralsight]
+
+You can see all of my assessments as well as video material which I have been watching lately on [my Pluralsight profile][pluralsight]
 
 <!--
 **bosconian-dynamics/bosconian-dynamics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +36,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[pluralsight]: https://app.pluralsight.com/profile/adam-bosco

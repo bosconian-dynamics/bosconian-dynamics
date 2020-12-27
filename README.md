@@ -3,10 +3,15 @@ I'm a web developer with a passion for creation, exploration, and expression.
 
 And JavaScript. Raccoons are pretty neat too :raccoon:
 
-## GitHub
+## Current Focus
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bosconian-dynamics&count_private=true&show_icons=true&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bosconian-dynamics&count_private=true&show_icons=true&hide_border=true" />
+  
+ - Learning to right cleaner, more maintainable PHP on top of the language's emerging feature set.
+ - Using larger contemporary toolchains to better write, test, and deploy my code, including software like Webpack, Eslint, PHPCS, Composer, GitHub Actions, PHPUnit, and more.
+ - Learning to better leverage GitHub to collaborate
+  
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosconian-dynamics&count_private=true&layout=compact&hide_border=true" />
 </p>
 

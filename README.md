@@ -1,7 +1,5 @@
 ### Oh, hello there 👋
-I'm a web developer with a passion for creation, exploration, and expression.
-
-And JavaScript. Raccoons are pretty neat too :raccoon:
+I am an insatiably curious and idealistically driven full-stack JavaScript addict with a passion for creation, expression, and the platforms which facilitate them.
 
 ## Current Focus
 

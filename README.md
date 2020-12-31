@@ -12,11 +12,13 @@ And JavaScript. Raccoons are pretty neat too :raccoon:
  - Using larger contemporary toolchains to better write, test, and deploy my code, including software like Webpack, Eslint, PHPCS, Composer, GitHub Actions, PHPUnit, and more.
  - Learning to better leverage GitHub to collaborate
   
-  <!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosconian-dynamics&count_private=true&layout=compact&hide_border=true" />-->
 </p>
 
 ## Skills and Technologies
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosconian-dynamics&count_private=true&layout=compact&hide_border=true" />
+
+### [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/pluralsight.svg" width="28px" />][pluralsight] Pluralsight
 Over the course of 2020 I've become fond of the guidance which Pluralsight's Skill Assessments offer in sharpening my knowledge of and familiarity with various technologies - as well as the platform's video content for introductory exposure and identifying gaps in my experience.
 
 [

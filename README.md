@@ -1,25 +1,35 @@
 ### Oh, hello there 👋
 I am an insatiably curious and idealistically driven full-stack JavaScript addict with a passion for creation, expression, and the platforms which facilitate them.
 
-## Current Focus
+## :mag_right: Focus
 
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bosconian-dynamics&count_private=true&show_icons=true&hide_border=true" />
   
- - Learning to right cleaner, more maintainable PHP on top of the language's emerging feature set.
- - Using larger contemporary toolchains to better write, test, and deploy my code, including software like Webpack, Eslint, PHPCS, Composer, GitHub Actions, PHPUnit, and more.
- - Learning to better leverage GitHub to collaborate
-  
+ - :notebook: **Learning**
+   - Contemporary PHP structure and toolchains (Composer, PHPCS, PHPUnit)
+   - Building and testing automation (GitHub Workflows)
+   - Filling in gaps in my knowledge of and getting up to speed with recent developments in familiar technologies (PHP, React, Webpack, Next.js)
+ - :art: **Creating** <img align="right" src="https://github-readme-stats.vercel.app/api?username=bosconian-dynamics&count_private=true&show_icons=true&hide_border=true" />
+   - Contributing to the WordPress/Gutenberg project
+   - Developing on top of Gutenberg to improve my comprehension of the platform
+   - A blog, finally!
+   - Building out small open-source plugins and projects for interested parties
+ - :eyeglasses: **Aspiring**
+   - Make some sort of income through my open source work and projects
+   - A career working with passionate people concerned with more than "the bottom line" (e.g. creativity, education, mental health, or social justice)
+   
 </p>
 
-## Skills and Technologies
+## :pencil: Skills and Technologies
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosconian-dynamics&count_private=true&layout=compact&hide_border=true" />
 
 <details>
   <summary><a href="https://app.pluralsight.com/profile/adam-bosco" alt="View my profile on Pluralsight"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/pluralsight.svg" width="26px" /></a><strong>Pluralsight</strong></summary>
-  
-  Over the course of 2020 I've become fond of the guidance which Pluralsight's Skill Assessments offer in sharpening my knowledge of and familiarity with various technologies - as well as the platform's video content for introductory exposure and identifying gaps in my experience.
+
+<br />
+
+I use Pluralsight's Skill Assessments and structured video content to improve my familiarity with various technologies and identify gaps in my knowledge.
 
 [
   <img width="30%" src="https://s2.pluralsight.com/assessments/badges/javascript-290-02-2020.png" />
